@@ -1,2 +1,1 @@
 echo It Works!
-pause
